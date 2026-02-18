@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Open The Window",
+  "base_artist": "RHYMESTER",
+  "createdAt": "2026-02-18T16:29:05.589507Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Open The Window",
+      "artist": "Plumtree",
+      "has_synced": true,
+      "path": "select/01_Open_The_Window_Plumtree.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Open The Window feat. JQ from Nulbarich",
+      "artist": "Rhymester",
+      "has_synced": true,
+      "path": "select/02_Open_The_Window_feat._JQ_from_Nulbarich_Rhymester.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "窓を開けて - Open the window",
+      "artist": "CIEL",
+      "has_synced": false,
+      "path": "select/03_窓を開けて_-_Open_the_window_CIEL.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I open the window instead of the closed door",
+      "artist": "김뜻돌",
+      "has_synced": true,
+      "path": "select/04_I_open_the_window_instead_of_the_closed_door_김뜻돌.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Open The Window feat. JQ from Nulbarich",
+      "artist": "RHYMESTER",
+      "has_synced": false,
+      "path": "select/pl_01_Open_The_Window_feat._JQ_from_Nulbarich_RHYMESTER.txt"
+    }
+  ]
+}
